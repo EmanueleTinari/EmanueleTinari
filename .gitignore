@@ -77,3 +77,6 @@ PowerShell/*
 # Ignore all local history of files
 .history
 .ionide
+EmanueleTinari/EmanueleTinari.code-workspace
+EmanueleTinari/.vscode/launch.json
+EmanueleTinari/.vscode/settings.json
