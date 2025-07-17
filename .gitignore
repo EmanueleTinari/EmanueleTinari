@@ -1,0 +1,79 @@
+### Dirs: ###
+AutoHotKey/*
+Chiesa/Vulgata/*
+Chiesa/Table Orig con note renumerate/*
+Chiesa/Index.js
+Chiesa/javascript.js
+Chiesa/jquery-3.7.1.js
+Chiesa/jquery-3.7.1.min.js
+Chiesa/modal.js
+Chiesa/Index.css
+Chiesa/stile.css
+Chiesa/*.chm
+Chiesa/ElencoFileContenuti.txt
+Chiesa/Errori sito da comunicare.txt
+Chiesa/Modello x Punti.txt
+Chiesa/Trova e Sostituisci sito Vaticano.txt
+Chiesa/Istruzione Redemptionis sacramentum.pdf
+Chiesa/sswws.exe
+Chiesa/Encicliche.xlsx
+Chiesa/Bibbia.chm
+Chiesa/cevii-cos-dev.html
+Chiesa/cevii-cos-ges.html
+Chiesa/cevii-cos-lug.html
+Chiesa/cevii-cos-sac.html
+Chiesa/cevii-dec-adg.html
+Chiesa/cevii-dec-apa.html
+Chiesa/cevii-dec-chd.html
+Chiesa/cevii-dec-inm.html
+Chiesa/cevii-dec-opt.html
+Chiesa/cevii-dec-ore.html
+Chiesa/cevii-dec-pec.html
+Chiesa/cevii-dec-pro.html
+Chiesa/cevii-dec-unr.html
+Chiesa/cevii-dic-dih.html
+Chiesa/cevii-dic-gre.html
+Chiesa/cevii-dic-noa.html
+Chiesa/Vulgata.chm
+Chiesa/blank.html
+Chiesa/Bible HTML.html
+Chiesa/Index.html
+Chiesa/Indicione.html
+Chiesa/SchemaLink.html
+Chiesa/Scrittura archiviazione locale.html
+Chiesa/Tooltip1.html
+Chiesa/Varie Icone.7z
+Chiesa/*
+Obsidian/ChiesaTest/*
+Obsidian/habit-tracker-example/*
+Obsidian/Ideaverse Lite 1.5/*
+Obsidian/Import_GitHub/*
+Obsidian/LYT-Kit/*
+Obsidian/scriptures/*
+Obsidian/Vault_vuoto1/*
+Obsidian/Vault_vuoto2/*
+Obsidian/Zettelkasten/*
+PowerShell/*
+.vscode/*
+
+# Excel temporary files:
+~$*.xls*
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
