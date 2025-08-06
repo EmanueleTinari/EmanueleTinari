@@ -51,9 +51,11 @@ Obsidian/Import_GitHub/*
 Obsidian/LYT-Kit/*
 Obsidian/scriptures/*
 Obsidian/Vault_vuoto1/*
-Obsidian/Vault_vuoto2/*
 Obsidian/Zettelkasten/*
-PowerShell/*
+Python/env/*
+Python/env311/*
+Python/__pycache__/*
+Riconoscimento-versetti-biblici/*
 .vscode/*
 
 # Excel temporary files:
