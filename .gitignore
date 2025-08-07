@@ -57,6 +57,7 @@ Python/env311/*
 Python/__pycache__/*
 Riconoscimento-versetti-biblici/*
 .vscode/*
+.vscode/settings.json
 
 # Excel temporary files:
 ~$*.xls*
@@ -83,3 +84,5 @@ EmanueleTinari/EmanueleTinari.code-workspace
 EmanueleTinari/.vscode/launch.json
 EmanueleTinari/.vscode/settings.json
 EmanueleTinari/Python/.webui_secret_key
+ElencoFileContenuti.txt
+.vscode/settings.json
