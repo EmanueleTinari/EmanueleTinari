@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Scroll Top 'n Bottom in ChatLLM",
+  "version": "1.0",
+  "description": "Scrolla all'inizio o alla fine della chat in siti come ChatGPT, Google Gemini o altri con un clic.",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "background": {
+  "scripts": ["background.js"]
+},
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": ["contentScript.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  }
+}

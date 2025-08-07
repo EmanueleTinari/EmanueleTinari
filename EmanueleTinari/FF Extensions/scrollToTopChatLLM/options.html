@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Opzioni Scroll Top 'n Bottom in ChatLLM</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    label, input, button { font-size: 1rem; }
+    ul { padding-left: 20px; }
+    li { margin: 8px 0; }
+    button.remove-btn { margin-left: 12px; color: red; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h2>Gestione Siti Abilitati</h2>
+  <label for="newSite">Inserisci URL sito:</label><br />
+  <input type="text" id="newSite" placeholder="https://example.com/" size="40" />
+  <button id="addSiteBtn">Aggiungi</button>
+
+  <h3>Siti Abilitati:</h3>
+  <ul id="sitesList"></ul>
+
+  <script src="options.js"></script>
+</body>
+</html>
