@@ -23,8 +23,9 @@ EmanueleTinari/Python/env311/*
 EmanueleTinari/Python/env311/*.*
 
 ### Chiesa sub ###
-EmanueleTinari/Chiesa/*
-EmanueleTinari/Chiesa/*.*
+EmanueleTinari/Chiesa/*.html
+EmanueleTinari/Chiesa/*.pdf
+EmanueleTinari/Chiesa/*.txt
 
 ### Obsidian sub ###
 EmanueleTinari/Obsidian/*.7z
