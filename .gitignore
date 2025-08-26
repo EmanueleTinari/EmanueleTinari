@@ -1,57 +1,57 @@
 ### Dirs: ###
-AutoHotKey/*
-Chiesa/Vulgata/*
-Chiesa/Table Orig con note renumerate/*
-Chiesa/Index.js
-Chiesa/javascript.js
-Chiesa/jquery-3.7.1.js
-Chiesa/jquery-3.7.1.min.js
-Chiesa/modal.js
-Chiesa/Index.css
-Chiesa/stile.css
-Chiesa/*.chm
-Chiesa/ElencoFileContenuti.txt
-Chiesa/Errori sito da comunicare.txt
-Chiesa/Modello x Punti.txt
-Chiesa/Trova e Sostituisci sito Vaticano.txt
-Chiesa/Istruzione Redemptionis sacramentum.pdf
-Chiesa/sswws.exe
-Chiesa/Encicliche.xlsx
-Chiesa/Bibbia.chm
-Chiesa/cevii-cos-dev.html
-Chiesa/cevii-cos-ges.html
-Chiesa/cevii-cos-lug.html
-Chiesa/cevii-cos-sac.html
-Chiesa/cevii-dec-adg.html
-Chiesa/cevii-dec-apa.html
-Chiesa/cevii-dec-chd.html
-Chiesa/cevii-dec-inm.html
-Chiesa/cevii-dec-opt.html
-Chiesa/cevii-dec-ore.html
-Chiesa/cevii-dec-pec.html
-Chiesa/cevii-dec-pro.html
-Chiesa/cevii-dec-unr.html
-Chiesa/cevii-dic-dih.html
-Chiesa/cevii-dic-gre.html
-Chiesa/cevii-dic-noa.html
-Chiesa/Vulgata.chm
-Chiesa/blank.html
-Chiesa/Bible HTML.html
-Chiesa/Index.html
-Chiesa/Indicione.html
-Chiesa/SchemaLink.html
-Chiesa/Scrittura archiviazione locale.html
-Chiesa/Tooltip1.html
-Chiesa/Varie Icone.7z
-Chiesa/*
-Obsidian/ChiesaTest/*
-Obsidian/habit-tracker-example/*
-Obsidian/Ideaverse Lite 1.5/*
-Obsidian/Import_GitHub/*
-Obsidian/LYT-Kit/*
-Obsidian/scriptures/*
-Obsidian/Vault_vuoto1/*
-Obsidian/Zettelkasten/*
+EmanueleTinari/AutoHotKey/*
+EmanueleTinari/Chiesa/Vulgata/*
+EmanueleTinari/Chiesa/Table Orig con note renumerate/*
+EmanueleTinari/Chiesa/Index.js
+EmanueleTinari/Chiesa/javascript.js
+EmanueleTinari/Chiesa/jquery-3.7.1.js
+EmanueleTinari/Chiesa/jquery-3.7.1.min.js
+EmanueleTinari/Chiesa/modal.js
+EmanueleTinari/Chiesa/Index.css
+EmanueleTinari/Chiesa/stile.css
+EmanueleTinari/Chiesa/*.chm
+EmanueleTinari/Chiesa/ElencoFileContenuti.txt
+EmanueleTinari/Chiesa/Errori sito da comunicare.txt
+EmanueleTinari/Chiesa/Modello x Punti.txt
+EmanueleTinari/Chiesa/Trova e Sostituisci sito Vaticano.txt
+EmanueleTinari/Chiesa/Istruzione Redemptionis sacramentum.pdf
+EmanueleTinari/Chiesa/sswws.exe
+EmanueleTinari/Chiesa/Encicliche.xlsx
+EmanueleTinari/Chiesa/Bibbia.chm
+EmanueleTinari/Chiesa/cevii-cos-dev.html
+EmanueleTinari/Chiesa/cevii-cos-ges.html
+EmanueleTinari/Chiesa/cevii-cos-lug.html
+EmanueleTinari/Chiesa/cevii-cos-sac.html
+EmanueleTinari/Chiesa/cevii-dec-adg.html
+EmanueleTinari/Chiesa/cevii-dec-apa.html
+EmanueleTinari/Chiesa/cevii-dec-chd.html
+EmanueleTinari/Chiesa/cevii-dec-inm.html
+EmanueleTinari/Chiesa/cevii-dec-opt.html
+EmanueleTinari/Chiesa/cevii-dec-ore.html
+EmanueleTinari/Chiesa/cevii-dec-pec.html
+EmanueleTinari/Chiesa/cevii-dec-pro.html
+EmanueleTinari/Chiesa/cevii-dec-unr.html
+EmanueleTinari/Chiesa/cevii-dic-dih.html
+EmanueleTinari/Chiesa/cevii-dic-gre.html
+EmanueleTinari/Chiesa/cevii-dic-noa.html
+EmanueleTinari/Chiesa/Vulgata.chm
+EmanueleTinari/Chiesa/blank.html
+EmanueleTinari/Chiesa/Bible HTML.html
+EmanueleTinari/Chiesa/Index.html
+EmanueleTinari/Chiesa/Indicione.html
+EmanueleTinari/Chiesa/SchemaLink.html
+EmanueleTinari/Chiesa/Scrittura archiviazione locale.html
+EmanueleTinari/Chiesa/Tooltip1.html
+EmanueleTinari/Chiesa/Varie Icone.7z
+EmanueleTinari/Chiesa/*
+EmanueleTinari/Obsidian/ChiesaTest/*
+EmanueleTinari/Obsidian/habit-tracker-example/*
+EmanueleTinari/Obsidian/Ideaverse Lite 1.5/*
+EmanueleTinari/Obsidian/Import_GitHub/*
+EmanueleTinari/Obsidian/LYT-Kit/*
+EmanueleTinari/Obsidian/scriptures/*
+EmanueleTinari/Obsidian/Vault_vuoto1/*
+EmanueleTinari/Obsidian/Zettelkasten/*
 EmanueleTinari/Python/env/*
 EmanueleTinari/Python/env311/*
 EmanueleTinari/Python/__pycache__/*
