@@ -28,6 +28,7 @@ EmanueleTinari/Chiesa/*.*
 
 ### Obsidian sub ###
 EmanueleTinari/Obsidian/*.7z
+EmanueleTinari/Obsidian/*.pdf
 EmanueleTinari/Obsidian/habit-tracker-example/*
 EmanueleTinari/Obsidian/habit-tracker-example/*.*
 EmanueleTinari/Obsidian/Ideaverse Lite 1.5/*
@@ -53,9 +54,12 @@ EmanueleTinari/Obsidian/Zettelkasten/*.*
 
 # Exclude Untitled Notes
 Untitled*
+
 # Exclude "bad" names
 null*
 
+# Exclude pdf files
+.pdf
 
 # Excel temporary files:
 ~$*.xls*
