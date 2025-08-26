@@ -52,9 +52,9 @@ Obsidian/LYT-Kit/*
 Obsidian/scriptures/*
 Obsidian/Vault_vuoto1/*
 Obsidian/Zettelkasten/*
-Python/env/*
-Python/env311/*
-Python/__pycache__/*
+EmanueleTinari/Python/env/*
+EmanueleTinari/Python/env311/*
+EmanueleTinari/Python/__pycache__/*
 Riconoscimento-versetti-biblici/*
 .vscode/*
 .vscode/settings.json
@@ -86,3 +86,4 @@ EmanueleTinari/.vscode/settings.json
 EmanueleTinari/Python/.webui_secret_key
 ElencoFileContenuti.txt
 .vscode/settings.json
+
