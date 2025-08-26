@@ -1,16 +1,4 @@
 ### Dirs: ###
-.vscode/*
-.vscode/settings.json
-EmanueleTinari/.vscode/*
-EmanueleTinari/.vscode/settings.json
-EmanueleTinari/*.code-workspace
-EmanueleTinari/Python/__pycache__/*
-EmanueleTinari/Python/env/*
-EmanueleTinari/Python/env311/*
-EmanueleTinari/Chiesa/*
-# Excel temporary files:
-~$*.xls*
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -18,6 +6,25 @@ EmanueleTinari/Chiesa/*
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+.vscode/settings.json
+EmanueleTinari/.vscode/*
+EmanueleTinari/.vscode/settings.json
+EmanueleTinari/*.code-workspace
+### Python sub ###
+EmanueleTinari/Python/.webui_secret_key
+EmanueleTinari/Python/PythonAI.code-workspace
+EmanueleTinari/Python/Test_API_Open_WebUI.py
+EmanueleTinari/Python/__pycache__/*
+EmanueleTinari/Python/__pycache__/*.*
+EmanueleTinari/Python/env/*
+EmanueleTinari/Python/env/*.*
+EmanueleTinari/Python/env311/*
+EmanueleTinari/Python/env311/*.*
+### Chiesa sub ###
+EmanueleTinari/Chiesa/*
+
+# Excel temporary files:
+~$*.xls*
 
 # Local History for Visual Studio Code
 .history/
@@ -29,4 +36,3 @@ EmanueleTinari/Chiesa/*
 # Ignore all local history of files
 .history
 .ionide
-.vscode/settings.json
