@@ -3,6 +3,10 @@
 .vscode/settings.json
 EmanueleTinari/.vscode/*
 EmanueleTinari/.vscode/settings.json
+EmanueleTinari/*.code-workspace
+EmanueleTinari/Python/__pycache__/*
+EmanueleTinari/Python/env/*
+EmanueleTinari/Python/env311/*
 EmanueleTinari/Chiesa/*
 # Excel temporary files:
 ~$*.xls*
