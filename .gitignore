@@ -1,7 +1,8 @@
 ### Dirs: ###
 .vscode/*
 .vscode/settings.json
-
+EmanueleTinari/.vscode/*
+EmanueleTinari/.vscode/settings.json
 # Excel temporary files:
 ~$*.xls*
 
