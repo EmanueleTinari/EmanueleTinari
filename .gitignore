@@ -24,11 +24,10 @@ EmanueleTinari/Python/env311/*.*
 
 ### Chiesa sub ###
 EmanueleTinari/Chiesa/*
+EmanueleTinari/Chiesa/*.*
 
 ### Obsidian sub ###
 EmanueleTinari/Obsidian/*.7z
-EmanueleTinari/Obsidian/ChiesaTest/*
-EmanueleTinari/Obsidian/ChiesaTest/*.*
 EmanueleTinari/Obsidian/habit-tracker-example/*
 EmanueleTinari/Obsidian/habit-tracker-example/*.*
 EmanueleTinari/Obsidian/Ideaverse Lite 1.5/*
@@ -43,6 +42,20 @@ EmanueleTinari/Obsidian/Vault_vuoto1/*
 EmanueleTinari/Obsidian/Vault_vuoto1/*.*
 EmanueleTinari/Obsidian/Zettelkasten/*
 EmanueleTinari/Obsidian/Zettelkasten/*.*
+.obsidian/workspaces.json
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+.vault-stats
+
+# Exclude Untitled Notes
+Untitled*
+# Exclude "bad" names
+null*
+
 
 # Excel temporary files:
 ~$*.xls*
