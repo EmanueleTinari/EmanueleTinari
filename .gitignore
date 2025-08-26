@@ -61,6 +61,9 @@ null*
 # Exclude pdf files
 .pdf
 
+# Exclude 7zip files
+.7z
+
 # Excel temporary files:
 ~$*.xls*
 
