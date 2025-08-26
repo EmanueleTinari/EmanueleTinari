@@ -10,6 +10,7 @@
 EmanueleTinari/.vscode/*
 EmanueleTinari/.vscode/settings.json
 EmanueleTinari/*.code-workspace
+
 ### Python sub ###
 EmanueleTinari/Python/.webui_secret_key
 EmanueleTinari/Python/PythonAI.code-workspace
@@ -20,8 +21,28 @@ EmanueleTinari/Python/env/*
 EmanueleTinari/Python/env/*.*
 EmanueleTinari/Python/env311/*
 EmanueleTinari/Python/env311/*.*
+
 ### Chiesa sub ###
 EmanueleTinari/Chiesa/*
+
+### Obsidian sub ###
+EmanueleTinari/Obsidian/*.7z
+EmanueleTinari/Obsidian/ChiesaTest/*
+EmanueleTinari/Obsidian/ChiesaTest/*.*
+EmanueleTinari/Obsidian/habit-tracker-example/*
+EmanueleTinari/Obsidian/habit-tracker-example/*.*
+EmanueleTinari/Obsidian/Ideaverse Lite 1.5/*
+EmanueleTinari/Obsidian/Ideaverse Lite 1.5/*.*
+EmanueleTinari/Obsidian/Import_GitHub/*
+EmanueleTinari/Obsidian/Import_GitHub/*.*
+EmanueleTinari/Obsidian/LYT-Kit/*
+EmanueleTinari/Obsidian/LYT-Kit/*.*
+EmanueleTinari/Obsidian/scriptures/*
+EmanueleTinari/Obsidian/scriptures/*.*
+EmanueleTinari/Obsidian/Vault_vuoto1/*
+EmanueleTinari/Obsidian/Vault_vuoto1/*.*
+EmanueleTinari/Obsidian/Zettelkasten/*
+EmanueleTinari/Obsidian/Zettelkasten/*.*
 
 # Excel temporary files:
 ~$*.xls*
