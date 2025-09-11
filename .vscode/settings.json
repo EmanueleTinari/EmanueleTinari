@@ -1,4 +1,14 @@
 {
     "editor.fontSize": 18,
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "barelink",
+        "contenteditable",
+        "cssclasses",
+        "dfirmadx",
+        "footref",
+        "Huajin",
+        "pfirmadx",
+        "sidenote"
+    ],
 }
