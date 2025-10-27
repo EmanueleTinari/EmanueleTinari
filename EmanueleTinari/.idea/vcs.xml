@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutoHotKey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chiesa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Diagrammi.drawio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EmanueleTinari" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FF-Extensions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/La-Sacra-Bibbia-In-Excel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Obsidian" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OsisITA_LAT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pensieri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PowerShell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Riconoscimento-versetti-biblici" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VBA-Excel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VBScript" vcs="Git" />
+  </component>
+</project>
