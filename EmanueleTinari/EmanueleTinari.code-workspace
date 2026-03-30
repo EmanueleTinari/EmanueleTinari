@@ -9,8 +9,17 @@
 			"PowerShell": {
 				"source": "PowerShell",
 				"icon": "terminal-powershell",
-				"path": ["c:/Program Files/PowerShell/7/pwsh.exe"],
+				"path": [
+					"c:/Program Files/PowerShell/7/pwsh.exe"
+				],
 			},
-		}
+		},
+		"rainbow_csv.autodetect_separators": [
+			"TAB",
+			",",
+			";",
+			"|",
+			"§"
+		]
 	}
 }
